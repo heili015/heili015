@@ -5,7 +5,7 @@
   <a href="https://x.com/pirazok015?s=2">
     <img src="https://img.shields.io/badge/Twitter-blue?logo=X&logoColor=black&style=for-the-badge" alt="Twitter Badge"/>
   </a>  
-  <a href="medium.com/@heili015">
+  <a href="https://heili015.medium.com">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
   </a>
   <a href="https://t.me/heili015">
