@@ -5,11 +5,11 @@
   <a href="https://x.com/pirazok015?s=2">
     <img src="https://img.shields.io/badge/Twitter-blue?logo=X&logoColor=black&style=for-the-badge" alt="Twitter Badge"/>
   </a>  
-  <a href="heilli015">
-    <img src="https://img.shields.io/badge/Telegram-purple?style=for-the-badge&logo=Telegram&logoColor=white" alt="Discord Badge"/>
-  </a>
-  <a href="medium.com/heili015">
+  <a href="medium.com/@heili015">
     <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium Badge"/>
+  </a>
+  <a href="https://t.me/heili015">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram&logoColor=white" alt="Discord Badge"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=heili015&style=flat-square&color=blue" alt=""/>
   <h1>
