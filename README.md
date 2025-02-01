@@ -25,4 +25,5 @@
 
 - :mortar_board: I'm studing at ambassador school
 - :chart_with_upwards_trend: I try to moderate and maintain communities in chats
+- :woman_office_worker: I tutor other classes in math and English at my school
 - :mailbox: Also you can find me in discord: @heilli015
